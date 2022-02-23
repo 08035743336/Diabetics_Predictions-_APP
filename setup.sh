@@ -1,4 +1,4 @@
-mkdlr -p ¬/.streamlit/
+mkdir -p ¬/.streamlit/
 
 echo "\
 [server]\n\
